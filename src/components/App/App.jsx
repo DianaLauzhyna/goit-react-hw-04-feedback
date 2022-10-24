@@ -1,4 +1,4 @@
-import { Feedback } from "./components";
+import { Feedback } from "..";
 import { Wrapper } from "./App.styled";
 
 export default function App() {
